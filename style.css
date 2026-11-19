@@ -9,6 +9,15 @@ background-color: darkslateblue;
     align-items: center;
     border: 2px solid green;
     background-size: cover;
-background-position: 50% 75%;
+    background-position: 50% 75%;
 
+}
+
+.cabeçalho-titulo{
+    color:black;
+    font-family: "Irish grover";
+    background-color: rgba;
+    border: 2px solid rgb;
+    padding: 20px;
+    border-radius: 5px;
 }
